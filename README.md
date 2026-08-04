@@ -1,24 +1,42 @@
-# README
+≪サービス名≫
+Smile　Coach
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+≪サービス概要≫
+接客練習を録画し、ＡＩが笑顔や話し方を分析・採点します。
+採点結果と改善アドバイスを確認でき練習履歴から成長を振り返ることができます
 
-Things you may want to cover:
+≪アプリ開発の背景・きっかけ≫
+これまでの職場で接客を経験する中で、お客様に与える第一印象の大切さを実感してきました。
+同じ内容を説明していても、笑顔や声のトーン、話すスピードなどの接客態度によって、お客様が受ける印象は大きく変わります。
+一方で、接客の練習では「笑顔で話す」「明るい声で話す」など、感覚的なアドバイスになりやすく、自分の接客を客観的に振り返ることが難しいと感じました。
+そこで、接客を録画し、AIを活用して笑顔や話し方などを分析することで、自分では気づきにくい接客の改善点を可視化し、繰り返し練習できるアプリを作りたいと考えました。
 
-* Ruby version
+≪具体的な分析≫
+・笑顔
+・話速
+・フィラー回数
+・声量
+・AIによる改善コメント
 
-* System dependencies
+≪主要機能≫
+・ユーザー登録・ログイン
+・動画・音声の録画
+・AI分析
+・フィードバック
+・練習履歴
 
-* Configuration
+≪技術スタック≫
+■フロントエンド
+・ＨＴＭＬ/ＣＳＳ
+・JavaScript
+・Hotwire
 
-* Database creation
+■バックエンド
+・Ruby on Rails8
 
-* Database initialization
+■データベース
+・PostgreSQL
 
-* How to run the test suite
+■認証
+・Devise
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
