@@ -10,7 +10,9 @@ services:
       - "3000:3000"
     depends_on:
       - db
+    user: "1000:1000"  # ← この行を追加
     environment:
+      RAILS_ENV: development  # ← この行を追加
       DATABASE_URL: postgres://postgres:password@db:5432/smile_coach_development
 
   db:
