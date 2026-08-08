@@ -33,9 +33,8 @@ Smile Coachでは、ブラウザ上で接客練習を録画し、AIによる文�
 を確認しながら、自分のペースで繰り返し練習できます。
 これにより、接客未経験の新人が不安を減らし、自信を持ってお客様対応ができる状態を目指します。
 
-## 画面遷移図
+## 画面遷移図 
 https://www.figma.com/design/PDdmBmxEJSey9XHhgk4NU6/Smile-Coach?node-id=2-2663&m=dev&t=EidrCW4TJjWKHk8g-1
-
 
 ## 2. このアイデアはどこから生まれたか
 コールセンターや家電量販店で接客業務を経験から
