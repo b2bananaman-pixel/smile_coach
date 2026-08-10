@@ -40,6 +40,9 @@ https://www.figma.com/proto/PDdmBmxEJSey9XHhgk4NU6/Smile-Coach?node-id=2-2663&t=
 ### デザインファイル（詳細確認用）
 https://www.figma.com/proto/PDdmBmxEJSey9XHhgk4NU6/Smile-Coach?node-id=2-2663&t=Yhn4uz7RQvt6w72k-1
 
+### ER図
+https://gyazo.com/a5b2e221252cb3a20d3118e4100c5f89
+
 ## 2. このアイデアはどこから生まれたか
 コールセンターや家電量販店で接客業務を経験から
 
